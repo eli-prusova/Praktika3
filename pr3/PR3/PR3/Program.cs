@@ -8,7 +8,7 @@ namespace ConsoleApp1
     static void Main(string[] args) 
     {
       string[] text ={ 
-        "University", 
+        "University ", 
         "C++", 
         " +79263772622",
         " (555)555-12122",
